@@ -17,9 +17,10 @@ namespace BlogModels.Models
 
         public async Task<IEnumerable<Category>> GetCategories()
         {
+            //als ik enkel de categories ophaal krijg ik geen problemen maar zodra ik een include doe krijg een "loop"
             var Categories = await _context.Category
-                .Include(T => T.TopicCategories)
-                .ThenInclude(r => r.Topic)
+                //.Include(T => T.TopicCategories)
+                //.ThenInclude(r => r.Topic)
                 .ToListAsync();
             return Categories;
 

@@ -9540,11 +9540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\Project\\Server\\BlogApi\\BlogApi\\BlogApi.csproj",
+      "projectUniqueName": "D:\\School\\BlogApi\\BlogApi\\BlogApi\\BlogApi.csproj",
       "projectName": "BlogApi",
-      "projectPath": "D:\\School\\Project\\Server\\BlogApi\\BlogApi\\BlogApi.csproj",
+      "projectPath": "D:\\School\\BlogApi\\BlogApi\\BlogApi\\BlogApi.csproj",
       "packagesPath": "C:\\Users\\Romuald\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\Project\\Server\\BlogApi\\BlogApi\\obj\\",
+      "outputPath": "D:\\School\\BlogApi\\BlogApi\\BlogApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Romuald\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9560,8 +9560,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\School\\Project\\Server\\BlogApi\\BlogModels\\BlogModels.csproj": {
-              "projectPath": "D:\\School\\Project\\Server\\BlogApi\\BlogModels\\BlogModels.csproj"
+            "D:\\School\\BlogApi\\BlogApi\\BlogModels\\BlogModels.csproj": {
+              "projectPath": "D:\\School\\BlogApi\\BlogApi\\BlogModels\\BlogModels.csproj"
             }
           }
         }

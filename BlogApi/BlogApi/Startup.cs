@@ -15,7 +15,6 @@ using BlogModels.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.OpenApi.Models;
-using Newtonsoft.Json;
 
 namespace BlogApi
 {
@@ -50,10 +49,6 @@ namespace BlogApi
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "BlogApi", Version = "v1" });
             });
-
-            services.AddMvc(option => option.EnableEndpointRouting = false)
-                .SetCompatibilityVersion(CompatibilityVersion.Version_3_0)
-                .AddNewtonsoftJson(opt => opt.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

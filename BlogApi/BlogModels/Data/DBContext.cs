@@ -18,7 +18,6 @@ namespace BlogModels.Models
         }
 
         public DbSet<Topic> Topic { get; set; }
-        public DbSet<TopicCategory> TopicCategory { get; set; }
         public DbSet<Category> Category { get; set; }
         //public DbSet<Post> Post { get; set; }
         //public DbSet<Comment> Comment { get; set; }

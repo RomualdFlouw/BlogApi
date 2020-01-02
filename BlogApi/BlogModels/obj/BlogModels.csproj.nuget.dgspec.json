@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\Project\\Server\\BlogApi\\BlogModels\\BlogModels.csproj": {}
+    "D:\\School\\BlogApi\\BlogApi\\BlogModels\\BlogModels.csproj": {}
   },
   "projects": {
-    "D:\\School\\Project\\Server\\BlogApi\\BlogModels\\BlogModels.csproj": {
+    "D:\\School\\BlogApi\\BlogApi\\BlogModels\\BlogModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\Project\\Server\\BlogApi\\BlogModels\\BlogModels.csproj",
+        "projectUniqueName": "D:\\School\\BlogApi\\BlogApi\\BlogModels\\BlogModels.csproj",
         "projectName": "BlogModels",
-        "projectPath": "D:\\School\\Project\\Server\\BlogApi\\BlogModels\\BlogModels.csproj",
+        "projectPath": "D:\\School\\BlogApi\\BlogApi\\BlogModels\\BlogModels.csproj",
         "packagesPath": "C:\\Users\\Romuald\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\Project\\Server\\BlogApi\\BlogModels\\obj\\",
+        "outputPath": "D:\\School\\BlogApi\\BlogApi\\BlogModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Romuald\\AppData\\Roaming\\NuGet\\NuGet.Config",

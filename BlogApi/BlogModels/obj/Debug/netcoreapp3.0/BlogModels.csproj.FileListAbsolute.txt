@@ -6,3 +6,11 @@ D:\School\Project\Server\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.A
 D:\School\Project\Server\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.dll
 D:\School\Project\Server\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.pdb
 D:\School\Project\Server\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.csprojAssemblyReference.cache
+D:\School\BlogApi\BlogApi\BlogModels\bin\Debug\netcoreapp3.0\BlogModels.deps.json
+D:\School\BlogApi\BlogApi\BlogModels\bin\Debug\netcoreapp3.0\BlogModels.dll
+D:\School\BlogApi\BlogApi\BlogModels\bin\Debug\netcoreapp3.0\BlogModels.pdb
+D:\School\BlogApi\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.AssemblyInfoInputs.cache
+D:\School\BlogApi\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.AssemblyInfo.cs
+D:\School\BlogApi\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.dll
+D:\School\BlogApi\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.pdb
+D:\School\BlogApi\BlogApi\BlogModels\obj\Debug\netcoreapp3.0\BlogModels.csprojAssemblyReference.cache

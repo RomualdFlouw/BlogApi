@@ -10,6 +10,7 @@ namespace BlogModels.Models
         public Guid TopicID { get; set; }
         public Guid CategoryID { get; set; }
 
+
         public virtual Topic Topic { get; set; }
         public virtual Category Category { get; set; }
     }
